@@ -14,6 +14,7 @@ package.path =
 require("material-landscape2").setup()
 require("tree").setup({ as_initial_layout = true })
 require("map").setup({ editor = "nvim", editor_key = "ctrl-e" })
+require("find").setup()
 
 
 table.remove(xplr.config.general.table.row.cols, 5)
