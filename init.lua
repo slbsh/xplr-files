@@ -1,4 +1,4 @@
-version = "0.21.2"
+version = "1.0.0"
 xplr.config.general.show_hidden = true
 
 xplr.config.general.initial_layout = "no_help_no_selection"
